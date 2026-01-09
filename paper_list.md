@@ -1,5 +1,28 @@
 # Papers
 
+**Wu et al., 2025** PathVLM-R1: a reinforcement learning-driven reasoning model for pathology visual-language tasks
+
+https://arxiv.org/abs/2504.09258
+
+Data:
+
+PathMMU (Sun et al., 2024): 33,428 multimodal multiple-choice questions + 24,067 pathological images.
+
+- 5,385 entried selected for SFT (3,000), GRPO (1,000), and testing (1,385)
+
+Out-of-domain datasets
+
+- ChestCT
+- ISIC2020
+- Retinal OCT-C8
+- Diabetic retinopathy
+
+
+
+
+
+
+
 
 
 **Xu et al., 2024.** A whole-slide foundation model for digital pathology from real-world data.
