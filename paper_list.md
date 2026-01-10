@@ -1,6 +1,6 @@
 # Papers
 
-## Patho-R1
+## Patho-R1 (2505.11404)
 
 **Zhang et al., 2025** Patho-R1: a multimodal reinforcement learning-based pathology expert reasoner
 
@@ -28,7 +28,7 @@ https://github.com/Wenchuan-Zhang/Patho-R1
 **GRPO/DAPO**
 
 
-
+## PathVLM-R1 (2504.09258)
 
 **Wu et al., 2025** PathVLM-R1: a reinforcement learning-driven reasoning model for pathology visual-language tasks
 
@@ -53,7 +53,7 @@ Out-of-domain datasets
 
 
 
-
+## Prov-GigaPath (2025 Nature)
 
 **Xu et al., 2024.** A whole-slide foundation model for digital pathology from real-world data.
 
