@@ -1,5 +1,35 @@
 # Papers
 
+## Patho-R1
+
+**Zhang et al., 2025** Patho-R1: a multimodal reinforcement learning-based pathology expert reasoner
+
+https://github.com/Wenchuan-Zhang/Patho-R1
+
+### Highlights
+- Curation of high-quality pathology datasets
+- Continued pretraining + SFT
+- GRPO + DAPO
+
+### Data
+
+**Continued Pretraining (CPT)**: 3.5M image-text pairs from PubMed, Quilt, PathGen, and pathology textbooks and notes.
+
+**Supervised Fine-tuning (SFT)**: 500k samples
+
+**GRPO/DAPO**: 10k diagnostic-oriented multiple-choice questions
+
+### Methods
+
+**Continued Pretraining (CPT)** 
+
+**Supervised Fine-tuning (SFT)**
+
+**GRPO/DAPO**
+
+
+
+
 **Wu et al., 2025** PathVLM-R1: a reinforcement learning-driven reasoning model for pathology visual-language tasks
 
 https://arxiv.org/abs/2504.09258
